@@ -86,21 +86,6 @@
 --
 --  subscriptionid | planid |        planname        | periodcount | periodprice |  total  
 -- ----------------+--------+------------------------+-------------+-------------+---------
---               1 |      4 | Peugeot 3008           |           8 |      649900 | 5199200
---               2 |      2 | Mercedes-Benz A-klasse |           7 |      599900 | 4199300
---               5 |      4 | Peugeot 3008           |           5 |      649900 | 3249500
---               5 |      3 | Mercedes-Benz A-klasse |           5 |      619900 | 3099500
---               3 |      1 | Opel Ampera-e          |           4 |      599900 | 2399600
---               4 |      4 | Peugeot 3008           |           1 |      649900 |  649900
---               2 |      6 | Fleks Mer              |           7 |       39900 |  279300
---               1 |      8 | Fleks Pluss            |           8 |       19900 |  159200
---               5 |      8 | Fleks Pluss            |           5 |       19900 |   99500
---               4 |      6 | Fleks Mer              |           1 |       39900 |   39900
---               4 |      8 | Fleks Pluss            |           1 |       19900 |   19900
---               2 |      7 | Fleks Basis            |           7 |           0 |       0
---               3 |      7 | Fleks Basis            |           4 |           0 |       0
---               3 |      5 | Fleks Mye              |           4 |           0 |       0
---               5 |      5 | Fleks Mye              |           5 |           0 |       0
---               1 |      5 | Fleks Mye              |           8 |           0 |       0
---               1 |      7 | Fleks Basis            |           8 |           0 |       0
---               6 |        |                        |             |             |
+--                 |        |                        |             |             |
+--                 |        |                        |             |             |
+--                 |        |                        |             |             |
